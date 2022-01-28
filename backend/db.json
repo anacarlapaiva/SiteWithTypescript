@@ -1,0 +1,57 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Arthur Oliveira",
+        "email": "aoliveira@gmail.com"
+    }, {
+        "id": 2,
+        "name": "Maria Julia da Silva",
+        "email": "mariajulia@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Claudio Campos",
+        "email": "campos@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "João Carlos Faria",
+        "email": "jcfaria@hotmail.com"
+    },
+    {
+        "id": 5,
+        "name": "Luana Albertoni",
+        "email": "lualbertoni@hotmail.com"
+    },
+    {
+        "id": 6,
+        "name": "Jamille Paiva",
+        "email": "jamilepaiva@hotmail.com"
+    },
+    {
+        "id": 7,
+        "name": "Kawana Lima",
+        "email": "kl@hotmail.com"
+    },
+    {
+        "id": 8,
+        "name": "Maria Aparecida Alves",
+        "email": "mariaparecida@outlook.com"
+    },
+    {
+        "id": 9,
+        "name": "Jasmine Rushmith",
+        "email": "jas@hotmail.com"
+    },
+    {
+        "id": 10,
+        "name": "Eduardo Hudson",
+        "email": "eduhudson@hotmail.com"
+    },
+    {
+        "id": 11,
+        "name": "Thiago Carvalho",
+        "email": "thica@hotmail.com"
+    }
+]
+}
